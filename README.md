@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Hi! I'm Ariela.png" width="100%">
+</p>
+
 ## Hi! I'm Ariela 👋
 
 A Data Science student with a passion for learning, building, and exploring the world through data.
